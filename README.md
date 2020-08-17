@@ -1,2 +1,2 @@
 # test-git-hub-repo
-Test
+Welcome to GitHub
